@@ -81,6 +81,7 @@ li a {
 /* Change color on hover */
 li a:hover {
     background-color: #ed1c24;
+    text-decoration: none;
     color: white;
     border-radius: 10px;
 }
